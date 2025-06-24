@@ -1,2 +1,3 @@
-# SCT_WD_3
-A colorful tech quiz game built using HTML, CSS, and JavaScript.
+# SCT_WD_3 - Quiz Game Application
+
+This project is part of **Task 03 (Alternative)** from the SkillCraft Web Development Internship. The quiz game was developed by **Gayathri Vattyam** using HTML, CSS, and JavaScript. It features 15 multiple-choice questions on core topics such as Data Structures, Java, HTML, CSS, JavaScript, and Operating Systems. The app includes a dynamic scrolling layout for questions and a separate result page with a circular score visualization and motivational messages. Through this task, I improved my front-end development skills, particularly in DOM manipulation, styling, and interactive UI logic.
